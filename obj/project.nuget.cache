@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "90y0gs5i5aM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql\\8.5.0\\graphql.8.5.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql-parser\\9.5.0\\graphql-parser.9.5.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.analyzers\\8.5.0\\graphql.analyzers.8.5.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.microsoftdi\\8.5.0\\graphql.microsoftdi.8.5.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.newtonsoftjson\\3.2.0\\graphql.newtonsoftjson.3.2.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.server.core\\4.4.1\\graphql.server.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.server.transports.aspnetcore\\8.2.0\\graphql.server.transports.aspnetcore.8.2.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.server.transports.subscriptions.abstractions\\4.4.1\\graphql.server.transports.subscriptions.abstractions.4.4.1.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.server.transports.websockets\\4.4.1\\graphql.server.transports.websockets.4.4.1.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.server.ui.altair\\8.2.0\\graphql.server.ui.altair.8.2.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\graphql.systemtextjson\\8.5.0\\graphql.systemtextjson.8.5.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\RLappc.com\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

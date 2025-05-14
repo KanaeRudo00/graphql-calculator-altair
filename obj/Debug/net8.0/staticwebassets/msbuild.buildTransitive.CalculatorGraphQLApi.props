@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CalculatorGraphQLApi.props" />
+</Project>
