@@ -4,7 +4,11 @@ using GraphQL.MicrosoftDI;
 using GraphQL.Types;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(8082); // Chỉ HTTP
+    // Xoá hoặc ẩn dòng options.ListenAnyIP(8081, listenOptions => listenOptions.UseHttps())
+});
 // 1️⃣ Register your query/type services
 builder.Services
     .AddSingleton<CalculatorQuery>()

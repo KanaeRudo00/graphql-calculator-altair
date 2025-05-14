@@ -37,3 +37,4 @@ C:\Users\RLappc.com\Desktop\CodeBase\CalculatorGraphQLApi\obj\Debug\net8.0\refin
 C:\Users\RLappc.com\Desktop\CodeBase\CalculatorGraphQLApi\obj\Debug\net8.0\CalculatorGraphQLApi.pdb
 C:\Users\RLappc.com\Desktop\CodeBase\CalculatorGraphQLApi\obj\Debug\net8.0\CalculatorGraphQLApi.genruntimeconfig.cache
 C:\Users\RLappc.com\Desktop\CodeBase\CalculatorGraphQLApi\obj\Debug\net8.0\ref\CalculatorGraphQLApi.dll
+C:\Users\RLappc.com\Desktop\CodeBase\CalculatorGraphQLApi\obj\Debug\net8.0\CalculatorGraphQLApi.sourcelink.json

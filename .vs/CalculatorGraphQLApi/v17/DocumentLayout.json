@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\calculatorgraphqlapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:calculatorgraphqlapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\graphql\\calculatormutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:graphql\\calculatormutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\calculatorgraphqlapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:calculatorgraphqlapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\graphql\\operationresulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:graphql\\operationresulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\graphql\\calculatorschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +31,28 @@
       "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:graphql\\calculatorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\graphql\\operationresulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:graphql\\operationresulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\calculatorgraphqlapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:calculatorgraphqlapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\models\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:models\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\graphql\\calculatormutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:graphql\\calculatormutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|c:\\users\\rlappc.com\\desktop\\codebase\\calculatorgraphqlapi\\calculatorgraphqlapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07F15ACD-AD5D-4904-9FAC-56992BBE764A}|CalculatorGraphQLApi.csproj|solutionrelative:calculatorgraphqlapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,111 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-14T11:11:27.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T11:06:37.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculatorGraphQLApi.csproj",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.csproj",
-              "RelativeDocumentMoniker": "CalculatorGraphQLApi.csproj",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.csproj",
-              "RelativeToolTip": "CalculatorGraphQLApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T16:59:56.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CalculatorGraphQLApi.http",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.http",
-              "RelativeDocumentMoniker": "CalculatorGraphQLApi.http",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.http",
-              "RelativeToolTip": "CalculatorGraphQLApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-13T16:22:07.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:22:04.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OperationResultType.cs",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\OperationResultType.cs",
-              "RelativeDocumentMoniker": "GraphQL\\OperationResultType.cs",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\OperationResultType.cs",
-              "RelativeToolTip": "GraphQL\\OperationResultType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:14:54.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OperationResult.cs",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Models\\OperationResult.cs",
-              "RelativeDocumentMoniker": "Models\\OperationResult.cs",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Models\\OperationResult.cs",
-              "RelativeToolTip": "Models\\OperationResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:04:28.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CalculatorSchema.cs",
-              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorSchema.cs",
-              "RelativeDocumentMoniker": "GraphQL\\CalculatorSchema.cs",
-              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorSchema.cs",
-              "RelativeToolTip": "GraphQL\\CalculatorSchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:03:58.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "CalculatorMutation.cs",
               "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorMutation.cs",
               "RelativeDocumentMoniker": "GraphQL\\CalculatorMutation.cs",
@@ -166,15 +78,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "CalculatorQuery.cs",
               "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorQuery.cs",
               "RelativeDocumentMoniker": "GraphQL\\CalculatorQuery.cs",
               "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorQuery.cs",
               "RelativeToolTip": "GraphQL\\CalculatorQuery.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:58:18.5Z"
+              "WhenOpened": "2025-05-13T15:58:18.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorSchema.cs",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorSchema.cs",
+              "RelativeDocumentMoniker": "GraphQL\\CalculatorSchema.cs",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\CalculatorSchema.cs",
+              "RelativeToolTip": "GraphQL\\CalculatorSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:03:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T11:11:27.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T11:49:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T11:06:37.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T11:51:28.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-14T11:49:18.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:22:04.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Models\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Models\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\Models\\OperationResult.cs",
+              "RelativeToolTip": "Models\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:04:28.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperationResultType.cs",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\OperationResultType.cs",
+              "RelativeDocumentMoniker": "GraphQL\\OperationResultType.cs",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\GraphQL\\OperationResultType.cs",
+              "RelativeToolTip": "GraphQL\\OperationResultType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:14:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorGraphQLApi.http",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.http",
+              "RelativeDocumentMoniker": "CalculatorGraphQLApi.http",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.http",
+              "RelativeToolTip": "CalculatorGraphQLApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-13T16:22:07.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculatorGraphQLApi.csproj",
+              "DocumentMoniker": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.csproj",
+              "RelativeDocumentMoniker": "CalculatorGraphQLApi.csproj",
+              "ToolTip": "C:\\Users\\RLappc.com\\Desktop\\CodeBase\\CalculatorGraphQLApi\\CalculatorGraphQLApi.csproj",
+              "RelativeToolTip": "CalculatorGraphQLApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T16:59:56.114Z"
             }
           ]
         }
