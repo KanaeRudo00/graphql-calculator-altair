@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorGraphQLApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bece3cafc01fa4f2a536ac01270b832db59fdb0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13959a46496ce29f51d6baf718f0075bfe9599b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculatorGraphQLApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculatorGraphQLApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
