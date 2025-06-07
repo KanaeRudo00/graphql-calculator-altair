@@ -11,7 +11,7 @@ A minimal GraphQL API that supports basic arithmetic operations such as addition
 
 ## How to Use
 
-1. Open the [Altair GraphQL Client](https://your-domain.com/ui/altair) in your browser (or use the desktop app).
+1. Open the [Altair GraphQL Client] (https://your-domain.com/ui/altair) in your browser (or use the desktop app).
 
 2. In the URL bar, enter your deployed GraphQL endpoint, for example:
 
